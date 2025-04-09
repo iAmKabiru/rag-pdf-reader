@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+
+# Chroma DB files
+*.chroma
+
+# SQLite database files
+*.sqlite
+*.sqlite3
+
+# Binary files
+*.bin
+.env
